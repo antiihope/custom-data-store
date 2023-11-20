@@ -1,6 +1,9 @@
 lockfileVersion: '6.0'
 
 dependencies:
+  '@wordpress/block-editor':
+    specifier: ^12.14.0
+    version: 12.14.0(react@18.2.0)
   '@wordpress/data':
     specifier: ^9.16.0
     version: 9.16.0(react@18.2.0)
@@ -13,6 +16,9 @@ dependencies:
   '@wordpress/plugins':
     specifier: ^6.14.0
     version: 6.14.0(react@18.2.0)
+  '@wordpress/rich-text':
+    specifier: ^6.23.0
+    version: 6.23.0(react@18.2.0)
 
 devDependencies:
   '@wordpress/eslint-plugin':
